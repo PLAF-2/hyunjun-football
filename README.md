@@ -15,8 +15,8 @@
 
 별도의 설치 없이 `index.html`을 브라우저에서 열면 실행됩니다.
 
-## 데모
+## 앱 참여
 
-https://seongsu-united-club.exact-mug-6944.chatgpt.site
+[앱 참여하기](https://plaf-2.github.io/hyunjun-football/)
 
 현재 버전은 예시 데이터와 브라우저 로컬 저장소를 사용합니다.
